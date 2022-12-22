@@ -27,3 +27,5 @@
 <p>linkedin: Danilo M</p>
 <p>gmail: daniloalbuquerquemelo@gmail.com</p>
   
+
+  ![Snake animation](https://github.com/dan-albuquerque/dan-albuquerque/blob/output/github-contribution-grid-snake.svg)

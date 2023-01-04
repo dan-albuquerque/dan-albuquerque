@@ -5,7 +5,7 @@
 <p>- 🚀 Pursuing a degree in computer science at Cesar School, so I'm trying to learn as much as I can and search for my calling in this field😁 </p>
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan-albuquerque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dan-albuquerque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-albuquerque&layout=compact&langs_count=7&theme=highcontrast"/>
     
 </div>

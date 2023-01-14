@@ -14,7 +14,6 @@
 # My skills include:
 
 <div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="python-icon" src= https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg>
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

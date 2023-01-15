@@ -5,8 +5,8 @@
 <p>- 🚀 Pursuing a degree in computer science at Cesar School, so I'm trying to learn as much as I can and search for my calling in this field😁 </p>
 
 <div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dan-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-albuquerque&layout=compact&langs_count=7&theme=dark"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dan-albuquerque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-albuquerque&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
 
@@ -20,9 +20,6 @@
   <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-
-          
-
 </div>
 
   

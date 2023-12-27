@@ -1,7 +1,7 @@
 # Hi there!
 
 <p>- 👋 I’m @dan-albuquerque</p>
-<p>- 🌱 I’m currently learning: Data analysis, C language, django framework, that is a bit of everything😅</p>
+<p>- 🌱 I’m currently learning: C language, django framework, that is a bit of everything😅</p>
 <p>- 🚀 Pursuing a degree in computer science at Cesar School, so I'm trying to learn as much as I can and search for my calling in this field😁 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
 # How to reach me:
 <div> 
     <a href = "mailto:daniloalbuquerquemelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-m-196494248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href= "https://www.linkedin.com/in/danilo-melo-196494248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
 
   ![Snake animation](https://github.com/dan-albuquerque/dan-albuquerque/blob/output/github-contribution-grid-snake.svg)

@@ -1,7 +1,7 @@
 # Hi there!
 
 <p>- 👋 I’m @dan-albuquerque</p>
-<p>- 🌱 I’m currently learning: C language, django framework, that is a bit of everything😅</p>
+<p>- 🌱 I’m currently learning: machine learning concepts using python with pandas </p>
 <p>- 🚀 Pursuing a degree in computer science at Cesar School, so I'm trying to learn as much as I can and search for my calling in this field😁 </p>
 
 <div align="center">

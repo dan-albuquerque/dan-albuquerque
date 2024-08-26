@@ -4,10 +4,10 @@
 <p>- 🌱 I’m currently learning: machine learning concepts using python with pandas </p>
 <p>- 🚀 Pursuing a degree in computer science at Cesar School, so I'm trying to learn as much as I can and search for my calling in this field😁 </p>
 
+# About My Github
 <div align="center">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dan-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-albuquerque&layout=compact&langs_count=7&theme=dark"/>
-    
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-albuquerque&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   

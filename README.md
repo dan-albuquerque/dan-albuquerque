@@ -2,7 +2,7 @@
 
 <p>- 👋 I’m @dan-albuquerque</p>
 <p>- 🌱 I’m currently learning: machine learning concepts using python with pandas </p>
-<p>- 🚀 Pursuing a degree in computer science at Cesar School, so I'm trying to learn as much as I can and search for my calling in this field😁 </p>
+<p>- 🚀 Pursuing a degree in computer science at Cesar School, looking to pursue a career in Data science😁 </p>
 
 # About My Github
 <div align="center">
@@ -18,6 +18,10 @@
   <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+          
 </div>
 
   
